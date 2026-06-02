@@ -1,0 +1,25 @@
+{
+  "description": "MinHash LSH index cho plagiarism detection",
+  "files": {
+    "minhashes.pkl": {
+      "type": "dict",
+      "key": "paper_id (str)",
+      "value": "datasketch.MinHash object",
+      "size_gb": 0.98,
+      "num_papers": "~1.8M"
+    },
+    "lsh_index.pkl": {
+      "type": "datasketch.MinHashLSH",
+      "threshold": 0.5,
+      "num_perm": 128,
+      "size_gb": 0.445
+    },
+    "config.json": {
+      "threshold": 0.5,
+      "num_perm": 128,
+      "shingle_k": 5,
+      "num_papers": "~1.8M"
+    }
+  },
+  "usage_example": "with open('minhashes.pkl','rb') as f: minhashes = pickle.load(f)\nwith open('lsh_index.pkl','rb') as f: lsh = pickle.load(f)\ncandidates = lsh.query(minhashes['arxiv_2301.00001.pdf'])"
+}

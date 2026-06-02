@@ -1,0 +1,352 @@
+[
+  {
+    "paper_id":"arxiv_0704.0397.pdf",
+    "chunk_id":0,
+    "section":"abstract",
+    "chunk_text":"We propose a measurement protocol to generate path-entangled NOON states conditionally from two pulsed type II optical parametric oscillators. We calculate the fidelity of the produced states and the ...",
+    "index_position":0
+  },
+  {
+    "paper_id":"arxiv_0704.0855.pdf",
+    "chunk_id":0,
+    "section":"abstract",
+    "chunk_text":"The intercombination line of Strontium at 689nm is successfully used in laser cooling to reach the photon recoil limit with Doppler cooling in a magneto-optical traps (MOT). In this paper we present a...",
+    "index_position":1
+  },
+  {
+    "paper_id":"arxiv_0704.0855.pdf",
+    "chunk_id":1,
+    "section":"abstract",
+    "chunk_text":"At large laser detuning, one finds an unusual situation where cooling and trapping occur in the presence of a high bias magnetic field.",
+    "index_position":2
+  },
+  {
+    "paper_id":"arxiv_0704.1301.pdf",
+    "chunk_id":0,
+    "section":"abstract",
+    "chunk_text":"We present high-resolution, multiwavelength continuum and molecular-line images of the massive star forming region IRAS 18317-0757. The IR through mm spectral energy distribution can be approximated b...",
+    "index_position":3
+  },
+  {
+    "paper_id":"arxiv_0704.1301.pdf",
+    "chunk_id":1,
+    "section":"abstract",
+    "chunk_text":"For the other four objects, the nondetections at 2.7 mm and in the MSX mid-IR bands are consistent with cool dust emission with a temperature of 13-40K and luminosity of 1000-40000 Lsun. By combining ...",
+    "index_position":4
+  },
+  {
+    "paper_id":"arxiv_0704.1301.pdf",
+    "chunk_id":2,
+    "section":"abstract",
+    "chunk_text":"Two stars (both associated with the UCHII region) were previously identified as O stars via IR spectroscopy. Most of the rest of the reddened stars have no obvious correlation with the C18O cores or t...",
+    "index_position":5
+  },
+  {
+    "paper_id":"arxiv_0704.1557.pdf",
+    "chunk_id":0,
+    "section":"abstract",
+    "chunk_text":"Let $E$ be a primarily quasilocal field, $M\/E$ a finite Galois extension and $D$ a central division $E$-algebra of index divisible by $[M\\colon E]$. In addition to the main result of Part I, this part...",
+    "index_position":6
+  },
+  {
+    "paper_id":"arxiv_0704.1609.pdf",
+    "chunk_id":0,
+    "section":"abstract",
+    "chunk_text":"Swift triggered on a precursor to the main burst of GRB 061121 (z=1.314), allowing observations to be made from the optical to gamma-ray bands. Many other telescopes, including Konus-Wind, XMM-Newton,...",
+    "index_position":7
+  },
+  {
+    "paper_id":"arxiv_0704.1609.pdf",
+    "chunk_id":1,
+    "section":"abstract",
+    "chunk_text":"The Spectral Energy Distribution (SED) of the prompt emission, stretching from 1eV up to 1MeV, is very flat, with a peak in the flux density at ~1keV. The optical-to-X-ray spectra at this time are bet...",
+    "index_position":8
+  },
+  {
+    "paper_id":"arxiv_0704.1609.pdf",
+    "chunk_id":2,
+    "section":"abstract",
+    "chunk_text":"The afterglow also decays too slowly to be accounted for by the standard models. Although the precursor and main emission show different spectral lags, both are consistent with the lag-luminosity corr...",
+    "index_position":9
+  },
+  {
+    "paper_id":"arxiv_0704.1609.pdf",
+    "chunk_id":3,
+    "section":"abstract",
+    "chunk_text":"A probable jet break is detected at ~2x10^5s, leading to an estimate of ~10^51 erg for the beaming-corrected gamma-ray energy.",
+    "index_position":10
+  },
+  {
+    "paper_id":"arxiv_0704.1717.pdf",
+    "chunk_id":0,
+    "section":"abstract",
+    "chunk_text":"Let G be a complex, connected, reductive algebraic group with Weyl group W and Steinberg variety Z. We show that the graded Borel-Moore homology of Z is isomorphic to the smash product of the coinvari...",
+    "index_position":11
+  },
+  {
+    "paper_id":"arxiv_0704.1885.pdf",
+    "chunk_id":0,
+    "section":"abstract",
+    "chunk_text":"BACKGROUND: An important question is whether evolution favors properties such as mutational robustness or evolvability that do not directly benefit any individual, but can influence the course of futu...",
+    "index_position":12
+  },
+  {
+    "paper_id":"arxiv_0704.1885.pdf",
+    "chunk_id":1,
+    "section":"abstract",
+    "chunk_text":"Proteins from the larger population also evolve greater stability, a biophysical property that is known to enhance both mutational robustness and evolvability. The excess mutational robustness and sta...",
+    "index_position":13
+  },
+  {
+    "paper_id":"arxiv_0704.1899.pdf",
+    "chunk_id":0,
+    "section":"abstract",
+    "chunk_text":"Pinpointing the progenitors of long duration gamma-ray bursts (LGRBs) remains an extremely important question, although it is now clear that at least a fraction of LGRBs originate in the core collapse...",
+    "index_position":14
+  },
+  {
+    "paper_id":"arxiv_0704.1899.pdf",
+    "chunk_id":1,
+    "section":"abstract",
+    "chunk_text":"Thus, massive stars in compact binaries are a likely channel for at least some fraction of LGRBs.",
+    "index_position":15
+  },
+  {
+    "paper_id":"arxiv_0704.2354.pdf",
+    "chunk_id":0,
+    "section":"abstract",
+    "chunk_text":"In this work, we study the size of the particles involved in a powder snow avalanche phenomenon. To determine these sizes, we study all the phenomena the particles have to face before arriving in the ...",
+    "index_position":16
+  },
+  {
+    "paper_id":"arxiv_0704.2354.pdf",
+    "chunk_id":1,
+    "section":"abstract",
+    "chunk_text":"We then examine the possibility for these particles to reach the top of the boundary layer, and so to take part in the avalanche. Our final result is that the more frequent particles suspended in a po...",
+    "index_position":17
+  },
+  {
+    "paper_id":"arxiv_0704.2812.pdf",
+    "chunk_id":0,
+    "section":"abstract",
+    "chunk_text":"By using the self-dual vortex background on extra two-dimensional Riemann surfaces in 5+1 dimensions, the localization mechanism of bulk fermions on a string-like defect with the exponentially decreas...",
+    "index_position":18
+  },
+  {
+    "paper_id":"arxiv_0704.3073.pdf",
+    "chunk_id":0,
+    "section":"abstract",
+    "chunk_text":"The goal of this study is to determine a distance to Westerlund 1 independent of the characteristics of the stellar population and to study its neutral environment, using observations of atomic hydrog...",
+    "index_position":19
+  },
+  {
+    "paper_id":"arxiv_0704.3073.pdf",
+    "chunk_id":1,
+    "section":"abstract",
+    "chunk_text":"Included in this estimate is a very careful investigation of possible sources of error for the Galactic rotation curve. We also report on small expanding HI features around the cluster with a maximum ...",
+    "index_position":20
+  },
+  {
+    "paper_id":"arxiv_0704.3073.pdf",
+    "chunk_id":2,
+    "section":"abstract",
+    "chunk_text":"This bubble has a dynamic age similar to the age of the cluster. Small expanding bubbles, with dynamical ages $\\sim 0.6$ Myr are found around Wd 1, which we suggest consist of recombined material lost...",
+    "index_position":21
+  },
+  {
+    "paper_id":"arxiv_0704.3235.pdf",
+    "chunk_id":0,
+    "section":"abstract",
+    "chunk_text":"We present results of a 20 ksec X-ray observation of the Wolf-Rayet (WR) binary system WR 147 obtained with XMM-Newton. Previous studies have shown that this system consists of a nitrogen-type WN8 sta...",
+    "index_position":22
+  },
+  {
+    "paper_id":"arxiv_0704.3235.pdf",
+    "chunk_id":1,
+    "section":"abstract",
+    "chunk_text":"Optically thin plasma models suggest even higher temperatures, which are not yet ruled out. The X-ray spectra are harder than can be accounted for using 2D numerical colliding wind shock models based ...",
+    "index_position":23
+  },
+  {
+    "paper_id":"arxiv_0704.3653.pdf",
+    "chunk_id":0,
+    "section":"abstract",
+    "chunk_text":"We conducted a preliminary field study to understand the current state of personal digital archiving in practice. Our aim is to design a service for the long-term storage, preservation, and access of ...",
+    "index_position":24
+  },
+  {
+    "paper_id":"arxiv_0704.3653.pdf",
+    "chunk_id":1,
+    "section":"abstract",
+    "chunk_text":"Four central archiving themes emerged from the data: (1) people find it difficult to evaluate the worth of accumulated materials; (2) personal storage is highly distributed both on- and offline; (3) p...",
+    "index_position":25
+  },
+  {
+    "paper_id":"arxiv_0704.3759.pdf",
+    "chunk_id":0,
+    "section":"abstract",
+    "chunk_text":"Community structure is an important property of complex networks. An automatic discovery of such structure is a fundamental task in many disciplines, including sociology, biology, engineering, and com...",
+    "index_position":26
+  },
+  {
+    "paper_id":"arxiv_0704.3759.pdf",
+    "chunk_id":1,
+    "section":"abstract",
+    "chunk_text":"Furthermore, it has been recently pointed out that algorithms based on optimizing Q will have a resolution limit, i.e., communities below a certain scale may not be detected. In this research, we firs...",
+    "index_position":27
+  },
+  {
+    "paper_id":"arxiv_0704.3759.pdf",
+    "chunk_id":2,
+    "section":"abstract",
+    "chunk_text":"We show that HQcut can successfully detect communities at a much finer scale and with a higher accuracy than the existing algorithms. Finally, we apply Qcut and HQcut to study a protein-protein intera...",
+    "index_position":28
+  },
+  {
+    "paper_id":"arxiv_0705.0188.pdf",
+    "chunk_id":0,
+    "section":"abstract",
+    "chunk_text":"We describe the geometry of geodesics on a Lorentz ellipsoid: give explicit formulas for the first integrals (pseudo-confocal coordinates), curvature, geodesically equivalent Riemannian metric, the in...",
+    "index_position":29
+  },
+  {
+    "paper_id":"arxiv_0705.0348.pdf",
+    "chunk_id":0,
+    "section":"abstract",
+    "chunk_text":"In this reply, we show that the author of the Comment arXiv:0704.3529v1 inadvertently provides additional arguments against the use of Hardy functions as test functions for the Gamow states.",
+    "index_position":30
+  },
+  {
+    "paper_id":"arxiv_0705.0398.pdf",
+    "chunk_id":0,
+    "section":"abstract",
+    "chunk_text":"Motivated by the polarization anomaly in the B->phi(1020)K*(892) decay, we extend our search for other K* final states in the decay B0->phi(1020)K^*0 with the K*0->K+pi- invariant mass above 1.6 GeV. ...",
+    "index_position":31
+  },
+  {
+    "paper_id":"arxiv_0705.0398.pdf",
+    "chunk_id":1,
+    "section":"abstract",
+    "chunk_text":"We place upper limits on the branching fractions BR(B0->phiK*(1680)0)<3.5*10^-6, BR(B0->phiK3*(1780)0)<2.7*10^-6, BR(B0->phiK4*(2045)0)<15.3*10^-6, and BR(B0->phiDbar0)<11.7*10^-6 at 90% C.L. The nonr...",
+    "index_position":32
+  },
+  {
+    "paper_id":"arxiv_0705.1137.pdf",
+    "chunk_id":0,
+    "section":"abstract",
+    "chunk_text":"Fermi and kinetic energy are usually calculated in periodic boundary conditions model, which is not self-consistent for low-dimensional problems, where particles are confined. Thus for confined partic...",
+    "index_position":33
+  },
+  {
+    "paper_id":"arxiv_0705.2378.pdf",
+    "chunk_id":0,
+    "section":"abstract",
+    "chunk_text":"We detected X-ray emission from the 50-kyr-old pulsar J1809-1917 and resolved its pulsar wind nebula (PWN) with Chandra. The pulsar spectrum fits PL+BB model with the photon index of 1.2 and the BB te...",
+    "index_position":34
+  },
+  {
+    "paper_id":"arxiv_0705.2378.pdf",
+    "chunk_id":1,
+    "section":"abstract",
+    "chunk_text":"This component is immersed in a larger (20''\\times40''), similarly elongated outer PWN component of lower surface brightness. The elongated shape of the compact PWN can be explained by the ram pressur...",
+    "index_position":35
+  },
+  {
+    "paper_id":"arxiv_0705.2378.pdf",
+    "chunk_id":2,
+    "section":"abstract",
+    "chunk_text":"in the direction of the alleged pulsar motion. To explain the extended X-ray emission ahead of the moving pulsar, one has to invoke strong intrinsic anisotropy of the pulsar wind or assume that this e...",
+    "index_position":36
+  },
+  {
+    "paper_id":"arxiv_0705.2378.pdf",
+    "chunk_id":3,
+    "section":"abstract",
+    "chunk_text":"Although the association between J1809-1917 and HESS J1809-193 is plausible, an alternative source of relativistic electrons powering HESS J1809-193 might be the serendipitously discovered X-ray sourc...",
+    "index_position":37
+  },
+  {
+    "paper_id":"arxiv_0705.3043.pdf",
+    "chunk_id":0,
+    "section":"abstract",
+    "chunk_text":"An analytic approach to phenomenological models inspired by cubic string field theory is introduced and applied to some examples. We study a class of actions for a minimally coupled, homogeneous scala...",
+    "index_position":38
+  },
+  {
+    "paper_id":"arxiv_0705.3043.pdf",
+    "chunk_id":1,
+    "section":"abstract",
+    "chunk_text":"Also, problems related to nonlocality are reinterpreted under a novel perspective and naturally overcome. We consider phenomenological models living on a Friedmann-Robertson-Walker background with pow...",
+    "index_position":39
+  },
+  {
+    "paper_id":"arxiv_0705.4532.pdf",
+    "chunk_id":0,
+    "section":"abstract",
+    "chunk_text":"We construct the deformation functor associated with a pair of morphisms of differential graded Lie algebras, and use it to study infinitesimal deformations of holomorphic maps of compact complex mani...",
+    "index_position":40
+  },
+  {
+    "paper_id":"arxiv_0706.0353.pdf",
+    "chunk_id":0,
+    "section":"abstract",
+    "chunk_text":"Simple recursion relations for zero energy states of supersymmetric matrix models are derived by using an unconventional reducible representation for the fermionic degrees of freedom.",
+    "index_position":41
+  },
+  {
+    "paper_id":"arxiv_0706.0957.pdf",
+    "chunk_id":0,
+    "section":"abstract",
+    "chunk_text":"Given an abelian group $A$ and a Lie group $G$, we construct a bilinear pairing from $A\\times\\pi_1({\\mathcal R})$ to $\\pi_1(G)$, where $\\mathcal R$ is a subvariety of the variety of representations $A...",
+    "index_position":42
+  },
+  {
+    "paper_id":"arxiv_0706.1001.pdf",
+    "chunk_id":0,
+    "section":"abstract",
+    "chunk_text":"We provide here an epistemic analysis of arbitrary strategic games based on the possibility correspondences. Such an analysis calls for the use of transfinite iterations of the corresponding operators...",
+    "index_position":43
+  },
+  {
+    "paper_id":"arxiv_0706.1547.pdf",
+    "chunk_id":0,
+    "section":"abstract",
+    "chunk_text":"Although one-loop calculations provide a realistic description of bulk and single-particle nuclear properties, it is necessary to examine loop corrections to develop a systematic finite-density power-...",
+    "index_position":44
+  },
+  {
+    "paper_id":"arxiv_0706.1547.pdf",
+    "chunk_id":1,
+    "section":"abstract",
+    "chunk_text":"(The appropriate field variables must be re-defined at each order in loops.) The corresponding parameters implicitly include short-range effects to all orders in the interaction, so these effects need...",
+    "index_position":45
+  },
+  {
+    "paper_id":"arxiv_0706.1878.pdf",
+    "chunk_id":0,
+    "section":"abstract",
+    "chunk_text":"This paper reports main results of the phase noise comparison that has been performed between october 2005 and december 2006, using two oscillators at 5 and 100 MHz and un DRO at 3.5 GHz. The problem ...",
+    "index_position":46
+  },
+  {
+    "paper_id":"arxiv_0706.2360.pdf",
+    "chunk_id":0,
+    "section":"abstract",
+    "chunk_text":"We perform axisymmetric simulations of the magnetorotational collapse of very massive stars in full general relativity. Our simulations are applicable to the collapse of supermassive stars (M > 10^3M_...",
+    "index_position":47
+  },
+  {
+    "paper_id":"arxiv_0706.2360.pdf",
+    "chunk_id":1,
+    "section":"abstract",
+    "chunk_text":"We find that such magnetic fields do not affect the initial collapse significantly. The core collapses to a black hole, after which black hole excision is employed to continue the evolution long enoug...",
+    "index_position":48
+  },
+  {
+    "paper_id":"arxiv_0706.2360.pdf",
+    "chunk_id":2,
+    "section":"abstract",
+    "chunk_text":"In the absence of magnetic fields, the torus settles down following ejection of a small amount of matter due to shock heating. When magnetic fields are present, the field lines gradually collimate alo...",
+    "index_position":49
+  }
+]
